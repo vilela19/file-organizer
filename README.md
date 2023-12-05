@@ -1,5 +1,5 @@
 # File Organizer
-Este script Python ajuda a organizar arquivos em um diretório especificado, classificando-os em pastas com base em suas extensões de arquivo. Pode ser particularmente útil para limpar diretórios desordenados, como a pasta de ``downloads``.
+Este script Python ajuda a organizar arquivos em um diretório especificado, classificando-os em pastas com base em suas extensões de arquivo. Pode ser particularmente útil para organizar diretórios desordenados, como a pasta de ``downloads``.
 
 ## Requisitos
 - Python 3.x
